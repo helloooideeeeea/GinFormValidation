@@ -1,7 +1,7 @@
 # GinFormValidation
 ### this library support validation message library for gin  
 
-this library be able to attach error message-id to binding tag(ex. required)  by struct's meta tag.
+this library be able to attach error message-id to binding tag(ex. required)  by struct's meta tag.  
 Maybe this way is simplest for form's validate error message.
 ```   
 FormInput `binding: "validate-attribute" bind_error: "validate-attribute=message-id"`  
