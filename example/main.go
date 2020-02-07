@@ -1,7 +1,7 @@
 package main
 
 import (
-	"GinFormValidation"
+	"github.com/helloooideeeeea/GinFormValidation"
 	"github.com/gin-gonic/gin"
 	"log"
 )
